@@ -1,0 +1,28 @@
+{
+  "name": "webchat",
+  "version": "1.0.0",
+  "description": "A discord clone webchat using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Kinyua/webch-.git"
+  },
+  "author": "Kevin Kinyua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kevin-Kinyua/webch-/issues"
+  },
+  "homepage": "https://github.com/Kevin-Kinyua/webch-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
