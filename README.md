@@ -48,6 +48,7 @@ To get started with the Real-Time Chat Application, follow these steps:
 1. Clone the repository.
 2. Install dependencies using `npm install` in the terminal. (express, socket.io, nodemon, moment JS).
 3. Run `npm run dev`.
+4. Please note that a different tab can represent a new device to simulate the chat ends.
 
 ## License
 
