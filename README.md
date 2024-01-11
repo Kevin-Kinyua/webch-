@@ -33,7 +33,6 @@ Below is an overview of key project details:
   - Node.js
   - Express.js
   - Socket.io for real-time communication
-  - MongoDB for data storage
 
 - **Frontend:**
   - HTML/CSS (React)
