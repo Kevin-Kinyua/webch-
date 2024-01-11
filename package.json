@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Kevin-Kinyua/webch-/issues"
   },
-  "homepage": "https://github.com/Kevin-Kinyua/webch",
+  "homepage": "https://Kevin-Kinyua.github.io/webch",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
